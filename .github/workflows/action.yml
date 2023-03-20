@@ -26,4 +26,4 @@ jobs:
           plugin_screenshot_background: no
           plugin_screenshot_selector: body
           plugin_screenshot_title: Adani Shares
-          plugin_screenshot_url: https://screenapi.cc/google.com/search?q=Adani+enterprises+Share
+          plugin_screenshot_url: https://screenapi.cc/google.com/finance/quote/ADANIENT:NSE
